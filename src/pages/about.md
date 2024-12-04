@@ -19,4 +19,4 @@ Auctor malesuada praesent platea orci nunc turpis. Dis ornare nec ligula etiam c
 
 Magnis fusce neque aliquet accumsan curae hac eget leo. Adipiscing dui orci bibendum torquent commodo habitasse feugiat nisl. Sed himenaeos nibh varius mi dignissim. Magna nam porta montes maximus velit commodo est ac. Etiam nulla magna id varius sapien felis tristique erat. Potenti eu leo neque libero feugiat augue nec. Volutpat odio lobortis habitasse; auctor magnis penatibus. Dapibus taciti accumsan diam fringilla, at ultrices sed. Vitae faucibus ut dolor; nostra quam aliquam.
  
-Or you can even give any feedback via my [email](mailto:console@duck.com).
+If you would like to contact me, you can do so via [email](mailto:console@duck.com).
