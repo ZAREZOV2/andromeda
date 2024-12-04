@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Information
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Lorem ipsum odor amet, consectetuer adipiscing elit. Primis nascetur himenaeos et et augue. Amet consectetur himenaeos porttitor class feugiat leo sit facilisi. Congue viverra dapibus rutrum leo semper accumsan ligula dignissim tristique. Adipiscing congue imperdiet pulvinar cubilia sagittis metus. Hac sagittis justo nisl hac interdum enim. Eget posuere mollis semper gravida gravida hac nostra arcu. Dolor donec id, sapien rutrum tristique diam metus aliquam. Enim vehicula mauris lacinia curabitur dapibus maecenas eleifend nibh.
 
-## Features
+Montes penatibus urna et vestibulum a. Faucibus consectetur turpis cursus magna nascetur eget condimentum. Malesuada massa suspendisse elementum class cursus purus bibendum. Amet lacus viverra penatibus mollis aenean feugiat dapibus nec. Sed pellentesque imperdiet magnis inceptos litora mattis habitasse ut. Neque facilisis quis inceptos lacus vehicula; mi fames maecenas non. Nisi platea habitasse leo; tortor blandit nulla nullam. Vel nascetur posuere, nascetur libero purus faucibus nisi. Lectus praesent rutrum quis neque facilisi netus primis lobortis tempor.
 
-Here are certain features of this site.
+Vivamus sit malesuada phasellus senectus ex nostra fames. Ac at eu tristique inceptos egestas cubilia ac lorem. Netus a ornare eros cursus condimentum viverra etiam. Penatibus donec arcu pretium; laoreet aliquet laoreet efficitur. Morbi egestas habitant nisl vel et vel tempor porttitor. Hac dictum aptent montes natoque montes senectus id sed. Cubilia molestie suspendisse, nisi nisl integer massa efficitur.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Auctor malesuada praesent platea orci nunc turpis. Dis ornare nec ligula etiam cursus. Laoreet primis conubia metus arcu faucibus aptent dapibus eros. Vehicula class nec ornare tellus urna urna pretium vivamus. Pretium malesuada sapien pharetra justo amet nibh. Himenaeos augue posuere sit rutrum curabitur nascetur venenatis pharetra. Adipiscing bibendum placerat curabitur nullam gravida sociosqu iaculis arcu consequat.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Magnis fusce neque aliquet accumsan curae hac eget leo. Adipiscing dui orci bibendum torquent commodo habitasse feugiat nisl. Sed himenaeos nibh varius mi dignissim. Magna nam porta montes maximus velit commodo est ac. Etiam nulla magna id varius sapien felis tristique erat. Potenti eu leo neque libero feugiat augue nec. Volutpat odio lobortis habitasse; auctor magnis penatibus. Dapibus taciti accumsan diam fringilla, at ultrices sed. Vitae faucibus ut dolor; nostra quam aliquam.
+ 
+Or you can even give any feedback via my [email](mailto:console@duck.com).
