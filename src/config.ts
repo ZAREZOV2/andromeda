@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://andromeda-digital.netlify.app/", // replace this with your deployed domain
   author: "Sat Naing",
-  profile: "https://satnaing.dev/",
+  profile: "https://andromeda-digital.netlify.app/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Andromeda Digital",
   ogImage: "astropaper-og.jpg",
@@ -13,7 +13,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/ZAREZOV2/andromeda/edit/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
